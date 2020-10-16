@@ -12,7 +12,7 @@ html, body {
   }
   body {
     text-align: center;
-    background-color: hsla(0,0%,0%,1);
+    background-color: hsla(23,95%,52%,1);
     }
   body:before {
     content: '';
@@ -27,7 +27,7 @@ h1 {
   color: white;
   font-family: 'Righteous', serif;
   font-size: 12em; 
-  text-shadow: .03em .03em 0 hsla(23,95%,52%,1);
+  text-shadow: .03em .03em 0 hsla(0,0%,0%,1);
   }
   h1:after {
     content: attr(data-shadow);
